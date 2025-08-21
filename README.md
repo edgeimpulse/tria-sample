@@ -2,6 +2,8 @@
 
 Requires our SDK
 
-Based on: https://github.com/edgeimpulse/linux-sdk-python/blob/master/examples/image/classify-full-frame.py
+Follow the instructions https://github.com/edgeimpulse/linux-sdk-python in the README to install the SDK first (clone, then read install instructions in the README.md file)
 
-Requires: https://pypi.org/project/edge-impulse-linux
+You also need to install our SDK package for Python: https://pypi.org/project/edge-impulse-linux
+
+main.py is based on this code example https://github.com/edgeimpulse/linux-sdk-python/blob/master/examples/image/classify-image.py 
